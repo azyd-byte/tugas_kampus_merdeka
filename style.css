@@ -1,0 +1,228 @@
+body {
+  background-image: linear-gradient(180deg, #eee, #fff 100px, #fff);
+  font-family: "Helvetica";
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: 960px;
+}
+
+header {
+  background: #f1f3ff;
+}
+
+.carousel-item {
+  background: #f1f3ff;
+  padding: 50px;
+}
+
+.pl-150 {
+  padding-left: 150px;
+}
+
+.pl-100 {
+  padding-left: 100px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+main {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.sewa-rental-head {
+  padding-left: 150px;
+}
+
+.nav-header {
+  padding-left: 150px;
+  padding-right: 100px;
+  padding-top: 20px;
+}
+
+header p {
+  max-width: 500px;
+}
+
+.darkblue05 {
+  background: #091b6f;
+}
+
+.darkblue04 {
+  background: #0d28a6;
+}
+
+.darkblue03 {
+  background: #5e70c4;
+}
+
+.darkblue02 {
+  background: #aeb7e1;
+}
+
+.darkblue01 {
+  background: #cfd4ed;
+}
+
+.limegreen05 {
+  background: #3d7b3f;
+}
+
+.limegreen04 {
+  background: #5cb85f;
+}
+
+.limegreen03 {
+  background: #92d094;
+}
+
+.limegreen02 {
+  background: #c9e7ca;
+}
+
+.limegreen01 {
+  background: #def1df;
+}
+
+.alert-danger {
+  background: #fa2c5a;
+}
+
+.alert-warning {
+  background: #f9cc00;
+}
+
+.alert-success {
+  background: #73ca5c;
+}
+
+#our-service {
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+#why-us {
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+#testimonial {
+  margin-top: 100px;
+}
+
+#CTA-banner {
+  margin: 50px;
+}
+
+#faq {
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+#footer {
+  margin-left: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+li img {
+  vertical-align: middle;
+}
+
+li p {
+  vertical-align: middle;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+.card-content-bintang {
+  width: 16px;
+}
+.card-testimonial {
+  background: #f1f3ff;
+}
+.card .card-body h6 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.button-carousel:hover {
+  color: #212529;
+  background: #5cb85f;
+  border-color: #5cb85f;
+}
+
+.button-carousel {
+  border-color: #c7c7c7;
+}
+
+.logo {
+  width: 100px;
+  height: 30px;
+  background: #0d28a6;
+}
+
+.row-header-padding {
+  padding-top: 140px;
+}
+
+.testimonial-img {
+  margin-left: 30px !important;
+  width: 70% !important;
+}
+
+@media only screen and (max-width: 900px) {
+  .row-header-padding {
+    padding-top: 140px;
+  }
+
+  .testimonial-img {
+    margin-left: 20px !important;
+    width: 10% !important;
+    opacity: 1 !important;
+  }
+
+  main {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  #our-service {
+    margin-left: 0px !important;
+  }
+
+  #why-us {
+    margin-left: 30px;
+    margin-top: 30px;
+  }
+
+  #faq {
+    margin-left: 30px;
+  }
+
+  #footer {
+    margin-left: 30px;
+  }
+
+  .sewa-rental-head {
+    padding-left: 50px;
+  }
+
+  .pl-100 {
+    padding-left: 50px;
+  }
+
+  .margin-bottom-mobile {
+    margin-bottom: 20px;
+  }
+
+  .nav-header {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+  }
+}
